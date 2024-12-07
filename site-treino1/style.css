@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+
+}
+div{
+    border: solid 2px;
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 10px;
+}
+hr{
+
+}
